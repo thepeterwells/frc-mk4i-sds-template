@@ -2,6 +2,7 @@ package frc.robot.sds.motors;
 
 import com.revrobotics.*;
 import frc.robot.sds.*;
+import frc.robot.sds.AbsoluteEncoder;
 import edu.wpi.first.wpilibj.shuffleboard.ShuffleboardContainer;
 
 import static frc.robot.sds.motors.RevUtils.checkNeoError;
